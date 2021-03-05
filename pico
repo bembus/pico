@@ -286,7 +286,7 @@
     <!--End of Head-->
     <!--Beginning of first Paragraph-->
     <p>
-        Testo d prova 
+        Testo di prova 
         <app resp="#silvia">
             <lem wit="#F #G #M #N #P #R #V">animum moveri</lem>
             <rdg type="orthographic" wit="#C" resp="#chiara">animu moveri</rdg>
