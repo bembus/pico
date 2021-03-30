@@ -69,7 +69,7 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <person xml:id="Madonna"> <!-- esempio -->
+               <person xml:id="Madonna">
                   <persName>
                      <forename>Madonna</forename>
                      <surname></surname>
@@ -79,15 +79,24 @@
                <person xml:id="Amore">
                   <persName>
                      <forename>Amore</forename>
+                     <surname></surname>
                   </persName>
                   <sex>M</sex>
                </person>
                <person xml:id="Morte">
-                  <persName>Morte</persName>
+                  <persName>
+                     <forename>Morte</forename>
+                     <surname></surname>
+                  </persName>
                </person>
                <person xml:id="Apollo">
-                  <persName>Apollo</persName>
+                  <persName>
+                     <forename>Apollo</forename>
+                     <surname></surname>
+                  </persName>
+                  <sex>F</sex>
                </person>
+               <!--
                <person xml:id="Signore">
                   <persName>Signore</persName>
                </person>
@@ -217,24 +226,27 @@
                <person xml:id="PERSON48">
                   <persName>Mida</persName>
                </person>
+               <-->
             </listPerson>
          </particDesc>
          <settingDesc>
             <listPlace>
+               <place xml:id="mare">
+                  <settlement type="località">mare</settlement>
+                  <placeName>mare</placeName>
+               </place>
+               <place xml:id="lido">
+                  <settlement type="località">mare</settlement>
+                  <placeName>lido</placeName>
+               </place>
+               <place xml:id="porto">
+                  <settlement type="località">mare</settlement>
+                  <placeName>porto</placeName>
+               </place>
+               <!--
                <place xml:id="Aciliano">
                   <settlement type="località/monte">Aciliano</settlement>
                   <placeName type="new">Alpi</placeName>
-               </place>
-               <place xml:id="mare">
-                  <settlement type="località">mare</settlement>
-                  <placeName>Mare</placeName>
-               </place>
-               <place xml:id="lido">
-                  <placeName>Lido</placeName>
-               </place>
-               <place xml:id="porto">
-                  <placeName>porto</placeName>
-               </place>
                <place xml:id="PLACE4">
                   <placeName>Lete</placeName>
                </place>
@@ -319,6 +331,7 @@
                <place xml:id="PLACE31">
                   <placeName>Acqua</placeName>
                </place>
+               <-->
             </listPlace>
          </settingDesc>
       </profileDesc>
@@ -1667,7 +1680,7 @@
       <body>
          <div type="poetry" n="1">
             <pb xml:id="P_fol_62r" corresp="#P_surf_62r" n="62r"/>
-            <head type="sub" rend="center">1</head>
+            <head rend="center">1</head>
             <lg type="sonnet">
                <lg type="quatrain">
                   <l n="1"><lb facs="#P_line_62r_02" xml:id="P_lb_62r_02" n="2"/>Dagli <term>occhi</term> de <persName ref="#Madonna"><choice><orig>madonna</orig><reg>Madonna</reg></choice></persName> el solfo prende</l>
