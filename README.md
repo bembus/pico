@@ -3,7 +3,8 @@
 This space collects the materials for the digital edition of the "Rime" of Giovanni Pico della Mirandola with [EVT 2](http://evt.labcd.unipi.it) developed by [Bembus](https://bembus.org).
 
 * __Principal investigator__: [Marco Sartor](https://marcosartor.org) (University of Parma)
-* __Contributors__: Irene Mamprin (Ca' Foscari University of Venice), Alessia Luvisotto (Ca' Foscari University of Venice)
+* __Person-in-charge of the project__: Irene Mamprin (Ca' Foscari University of Venice)
+* __Contributor__: Alessia Luvisotto (Ca' Foscari University of Venice)
 
 ## Useful links
 * __GitHub repository__ (contains XML files for markup): https://github.com/bembus/pico
