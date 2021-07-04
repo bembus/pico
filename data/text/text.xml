@@ -1459,6 +1459,38 @@
          <pb type="end"/>
       </front>
       <body>
+
+
+         <div type="poetry" n="1">
+            <pb xml:id="P_fol_62r" corresp="#P_surf_62r" n="62r"/>
+            <head rend="center">1</head>
+            <lg type="sonnet">
+               <lg type="quatrain">
+                  <l n="1"><lb facs="#P_line_62r_02" xml:id="P_lb_62r_02" n="2"/>Dagli <app><lem wit="#F">occhi<rdg type="ortographic" wit="#V">ochi</rdg></app> de Madonna el solfo prende</l>
+                  <l n="2"><lb facs="#P_line_62r_03" xml:id="P_lb_62r_03" n="3"/>Amore: et ha per mantici i desiri</l>
+                  <l n="3"><lb facs="#P_line_62r_04" xml:id="P_lb_62r_04" n="4"/>Vani: el cor soffia un vento de sospiri</l>
+                  <l n="4"><lb facs="#P_line_62r_05" xml:id="P_lb_62r_05" n="5"/>Che in me che stopia sum la fiamma i(n)cende</l>
+               </lg>
+               <lg type="quatrain">
+                  <l n="5"><lb facs="#P_line_62r_06" xml:id="P_lb_62r_06" n="6"/>E <persName ref="#Madonna">lei</persName><choice><orig></orig><reg>,</reg></choice> quando pur scalda<choice><orig>:</orig><reg>,</reg></choice> giova e offende</l>
+                  <l n="6"><lb facs="#P_line_62r_07" xml:id="P_lb_62r_07" n="7"/><choice><orig>El</orig><reg>el</reg></choice> <term>cor</term> mio stancho<choice><orig>:</orig><reg>,</reg></choice> e fra dolci <term>martiri</term></l>
+                  <l n="7"><lb facs="#P_line_62r_08" xml:id="P_lb_62r_08" n="8"/><choice><orig>Lalma</orig><reg>l'alma</reg></choice><choice><orig></orig><reg>,</reg></choice> qual huom<choice><orig>:</orig><reg></reg></choice> che hor <term>ami</term> et or <choice><orig>sadiri</orig><reg>s'adiri</reg></choice><choice><orig></orig><reg>,</reg></choice></l>
+                  <l n="8"><lb facs="#P_line_62r_09" xml:id="P_lb_62r_09" n="9"/><choice><orig>In</orig><reg>in</reg></choice> un <choice><orig>momēto</orig><reg>momento</reg></choice> ella mi toglie et rende<choice><orig></orig><reg>.</reg></choice></l>
+               </lg>
+               <lg type="tercet">
+                  <l n="9"><lb facs="#P_line_62r_10" xml:id="P_lb_62r_10" n="10"/><choice><orig>Cosi</orig><reg>Così</reg></choice> di lode et di lamenti io strido<choice><orig>,</orig><reg></reg></choice></l>
+                  <l n="10"><lb facs="#P_line_62r_11" xml:id="P_lb_62r_11" n="11"/><choice><orig>E</orig><reg>e</reg></choice> nel <placeName ref="#mare">mar</placeName> navigando senza remo</l>
+                  <l n="11"><lb facs="#P_line_62r_12" xml:id="P_lb_62r_12" n="12"/><choice><orig>Longe</orig><reg>longe</reg></choice> da <placeName ref="#lito">lito</placeName> <choice><orig>asalvo</orig><reg>a salvo</reg></choice> <placeName ref="#porto">porto</placeName> arrivo<choice><orig></orig><reg>.</reg></choice></l>
+               </lg>
+               <lg type="tercet">
+                  <l n="12"><lb facs="#P_line_62r_13" xml:id="P_lb_62r_13" n="13"/><choice><orig>Cosi</orig><reg>Così</reg></choice> ridendo io piango e in pianto rido<choice><orig></orig><reg>,</reg></choice></l>
+                  <l n="13"><lb facs="#P_line_62r_14" xml:id="P_lb_62r_14" n="14"/><choice><orig>Temendo</orig><reg>temendo</reg></choice> io spero <choice><orig>/ </orig><reg></reg></choice>e nel sperar <choice><orig>piu</orig><reg>più</reg></choice> temo<choice><orig></orig><reg>,</reg></choice></l>
+                  <l n="14"><lb facs="#P_line_62r_15" xml:id="P_lb_62r_15" n="15"/><choice><orig>Moro</orig><reg>moro</reg></choice> vivendo e poi morendo io vivo<choice><orig></orig><reg>.</reg></choice></l>
+               </lg>
+            </lg>
+         </div>   
+
+
          <div type="poetry" n="1">
             <pb xml:id="P_fol_62r" corresp="#P_surf_62r" n="62r"/>
             <head rend="center">1</head>
